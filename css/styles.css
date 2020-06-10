@@ -306,7 +306,7 @@ font-weight: normal;
 .bottom_container {
     background-color: white;
   font-size: 20px;
-  line-height: 30px;
+  line-height: 24px;
   margin: 0;
   padding: 0;
 
@@ -322,7 +322,7 @@ font-weight: normal;
   position: absolute;
   top: 50px;
   left: 8%;
-  
+  width: 45%;
 }
 
 .join {
