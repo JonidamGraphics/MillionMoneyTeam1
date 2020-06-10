@@ -1,0 +1,410 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.body {
+  height: 100%;
+  width: 100%;
+  position: relative;
+
+}
+
+.top_container {
+  width:100%;
+  background-color: white;
+  position: relative;
+  height: 200px;
+  padding: 0;
+  margin: 0;
+}
+
+.welcome{
+  margin: 0;
+  font-weight: normal;
+  color: #393e46;
+  display: inline-block;
+  position: absolute;
+  left: 47%;
+  top: 65px;
+}
+
+
+.logo_name {
+  padding:0;
+  display: inline-block;
+  position: absolute;
+  width: 30%;
+  bottom: 50px;
+  left: 35%;
+}
+
+.first_container {
+
+  margin: 0;
+  padding: 0;
+  background-image: url("FirstBackBg.png");
+    position: relative;
+}
+
+.background {
+  width:100%;
+  height: auto;
+}
+
+.topic1{
+
+    font-size: 77px;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 4.7%;
+  left: 8%;
+}
+.topic2{
+  font-size: 77px;
+  color: #C8972A;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 9.9%;
+  left: 8%;
+}
+
+.bm{
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 17%;
+  left: 8%;
+}
+.just{
+  font-size: 22px;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 17.3%;
+  left: 9%;
+}
+
+.WhiteFrame{
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  width: 84%;
+  top: 25%;
+  left: 8%;
+}
+.frame_text {
+  font-size: 35px;
+  color: #393e46;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 26.5%;
+  left: 12%;
+}
+.date {
+color: #C8972A;
+ }
+
+
+
+.paragraph1 {
+font-weight: normal;
+text-align: justify;
+line-height: 40px;
+font-size: 22px;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 34%;
+  left: 8%;
+  width: 84%;
+
+}
+.paragraph2 {
+font-weight: normal;
+text-align: justify;
+font-size: 22px;
+line-height: 40px;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 43.3%;
+  left: 8%;
+  width: 84%;
+}
+
+.MMButton {
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 46%;
+  left: 45%;
+  width:28%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  position: absolute;
+  width:100%;
+}
+.bottom_line {
+  top: 68%;
+}
+
+.top_line {
+  top: 51%;
+}
+
+
+.left_panel {
+    text-align: justify;
+  font-size: 22px;
+  line-height: 40px;
+  margin: 0;
+  padding: 0;
+  background-image: url("WhyDiv.png");
+  position: relative;
+  position: absolute;
+  top: 56%;
+  width:40%;
+  left: 8%;
+}
+.why_div{
+  width: 100%;
+  height: 100%;
+}
+
+.why {
+    font-size: 35px;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+.paragraph3 {
+font-weight: normal;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 21%;
+  left: 10%;
+  width: 80%;
+}
+.paragraph4 {
+font-weight: normal;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  width: 80%;
+}
+
+.right_panel {
+  text-align: justify;
+  font-size: 20px;
+  line-height: 35px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  position: absolute;
+  top: 56%;
+  width:40%;
+  height:34.3%;
+  right: 8%;
+}
+.get_started {
+  width: 100%;
+}
+.create_wallet {
+    font-size: 35px;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 17%;
+  left: 0;
+}
+
+.paragraph5 {
+  font-weight: normal;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 25%;
+  left: 0;
+  width: 100%;
+}
+.paragraph6 {
+  font-weight: normal;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 45%;
+  left: 0;
+  width: 100%;
+}
+.paragraph7 {
+  font-weight: normal;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 60%;
+  left: 0;
+  width: 100%;
+}
+.paragraph8 {
+  font-weight: normal;
+  color: white;
+  margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 86%;
+  left: 0;
+  width: 100%;
+}
+.steps{
+  color: #C8972A;
+  font-weight: 700;
+}
+.bottom_container {
+    background-color: white;
+  font-size: 20px;
+  line-height: 35px;
+  margin: 0;
+  padding: 0;
+
+  position: relative;
+  position: absolute;
+  top: 98%;
+  width:100%;
+  height: 50%;
+
+
+}
+.bottom_content {
+  position: absolute;
+  top: 50px;
+  left: 8%;
+}
+
+.join {
+  font-weight: 700;
+  font-size: 50px;
+  color: #C8972A;
+}
+.eth_image {
+  position: absolute;
+  right: 8%;
+  top: 90px;
+  width: 33%;
+}
+span {
+  color: #C8972A;
+}
+
+.telegram {
+  height: 250px;
+  width: 100%;
+  background-color: #C8972A;
+  position: relative;
+  position: absolute;
+  bottom: 0;
+
+}
+
+.paragraph15 {
+  font-weight: normal;
+  font-size: 26px;
+  color: white;
+    margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 20px;
+  left: 8%;
+}
+
+.paragraph16 {
+  font-weight: normal;
+  color: white;
+  font-size: 26px;
+    margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 53px;
+  left: 8%;
+}
+.paragraph17 {
+  font-weight: normal;
+  color: white;
+  font-size: 30px;
+    margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  top: 100px;
+  left: 12%;
+}
+
+.tel {
+  position: absolute;
+  left: 8%;
+  top: 37%;
+  width: 30%;
+}
+
+.testimonies {
+  position: absolute;
+  right: 8%;
+  top: 10%;
+  width: 30%;
+}
+.copyrights {
+  text-align: center;
+  font-weight: normal;
+    margin: 0;
+  padding:0;
+  display:inline-block;
+  position: absolute;
+  bottom: 10%;
+  left: 43%;
+
+}
